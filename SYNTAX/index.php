@@ -8,7 +8,12 @@
     <body>
         <?php 
         echo "HELLO WORLD";
-        echo "HELLO WORLD"
+        echo "HELLO WORLD";
+        $name = "John David Cabal";
         ?>
+
+        <?php if (true) { ?>
+            print("<h3>HELLO WORLD </h3>");
+        <?php } ?>
     </body>
 </html>
